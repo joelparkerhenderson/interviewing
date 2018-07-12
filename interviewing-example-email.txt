@@ -1,21 +1,20 @@
-From: Alice Anderson (alice@example.com)
-To: Your Name (you@example.com)
+From: Alice Anderson <alice@example.com>
+To: Your Name <you@example.com>
 
 Welcome to Acme Inc., and thank you for interviewing with us.
 
 This email has information about the interview and what to expect.
 
-My contact information:<br>
-Alice Anderson<br>
-alice@example.com<br>
+My contact information:
+Alice Anderson
+alice@example.com
 +1-415-555-0000
   
-Company contact information:<br>
-Acme Inc.<br>
-100 Main Street<br>
-Suite #100<br>
-San Francisco, CA, 94101, US<br>
-+1-800-000-0000<br>
+Company contact information:
+Acme Inc.
+100 Main Street, Suite #100
+San Francisco, CA, 94101, US
++1-800-000-0000
 https://example.com
 
 The interview time is 11 a.m. to 12 noon, Pacific Time.
