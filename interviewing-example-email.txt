@@ -1,0 +1,35 @@
+From: Alice Anderson (alice@example.com)
+To: Your Name (you@example.com)
+
+Welcome to Acme Inc., and thank you for interviewing with us.
+
+This email has information about the interview and what to expect.
+
+My contact information:<br>
+Alice Anderson<br>
+alice@example.com<br>
++1-415-555-0000
+  
+Company contact information:<br>
+Acme Inc.<br>
+100 Main Street<br>
+Suite #100<br>
+San Francisco, CA, 94101, US<br>
++1-800-000-0000<br>
+https://example.com
+
+The interview time is 11 a.m. to 12 noon, Pacific Time.
+
+There will be two half-hour interviews, with two interviewers each. 
+
+The interview focuses on real-world work, including reading/writing code,
+technical communication, and how to build substantial applications.
+
+Please come prepared to show some of your existing code,
+discuss one or more of your recent relevant projects,
+and write new code together with our teammates.
+
+If you have a laptop and want to bring it, that's good.
+Set it up to show your work in the way you want.
+
+Thank you for coming in, and we look forward to meeting you.
