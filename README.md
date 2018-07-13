@@ -79,7 +79,7 @@ Get the candidate comfortable by by starting with pleasantries.
 For candidates:
 
 * [20 tips for great job interviews](https://www.experisjobs.us/exp_us/en/career-advice/20-tips-job-interviews.htm)
-* [How to answer the 31 most common interview questions]https://www.themuse.com/advice/how-to-answer-the-31-most-common-interview-questions)
+* [How to answer the 31 most common interview questions](https://www.themuse.com/advice/how-to-answer-the-31-most-common-interview-questions)
 
 For interviewers:
 
