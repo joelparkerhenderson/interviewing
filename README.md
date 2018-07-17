@@ -47,6 +47,20 @@ Goal: the interviewer learns how the candidate works on a team.
 Reason: The framing is meant to encourage discussion of teamwork, planning, and long term work together.
 
 
+### Follow-up questions
+
+Ask a follow-up question if you like:
+
+Goal: the interview gains more in-depth answers.
+
+Examples:
+
+  * "Can you tell me more about X?"
+  * "Why did you choose X?"
+  * "What steps did you take to make X happen?"
+  * "What speciﬁc things did X accomplish?"
+
+
 ## Before the interview
 
 
