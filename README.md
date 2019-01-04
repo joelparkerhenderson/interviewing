@@ -1,10 +1,27 @@
 # Interviewing
 
-Interviewing for hiring is a big deal, for candidates and for employees.
+Interviewing for hiring is a big deal, for candidates and for employees. This repo has notes and links that help our team with interviews. This repo focuses on technical interviews for software developers, because this is what we do often.
 
-This repo has notes and links that help our team with interviews.
+Contents:
 
-We focus on technical interviews for software developers, because this is what we do often.
+* [For the interviewer](#for-the-interviewer)
+* [3 types of questions](#3-types-of-questions)
+  * [Challenge question](#challenge-question)
+  * [Insight question](#insight-question)
+  * [Scenario question](#scenario-question)
+  * [Follow-up questions](#follow-up-questions)
+* [Before the interview](#before-the-interview)
+* [During the interview](#during-the-interview)
+* [Interview advice by Microsoft's Developer Division](#interview-advice-by-microsoft-s-developer-division)
+  * [Share the interview in advance](#share-the-interview-in-advance)
+  * [Use a real problem](#use-a-real-problem)
+  * [Give access to data](#give-access-to-data)
+  * [Make it interactive](#make-it-interactive)
+  * [Follow a single scenario](#follow-a-single-scenario)
+  * [Pair interviewers](#pair-interviewers)
+  * [Hold feedback until the end](#hold-feedback-until-the-end)
+  * [Give feedback on the process too](#give-feedback-on-the-process-too)
+* [Resources](#resources)
 
 
 ## For the interviewer
@@ -88,6 +105,49 @@ Get the candidate comfortable by by starting with pleasantries.
   * Ask them if they need anything before starting.
 
 
+## Interview advice by Microsoft's Developer Division
+
+
+### Share the interview in advance
+
+To start with, we let the candidate know a few days in advance what the interview day will look like and what problem we’ll be working on. We give them time to do their own research and to think about it. It’s not like going into work every day is a surprise, so why should an interview be?
+
+### Use a real problem
+
+We run through a real problem the team is trying to solve — improving satisfaction, increasing retention, boosting usage of a service or feature. The fact that it’s a real problem that we’re working on helps foster a collaborative conversation.
+
+
+### Give access to data
+
+We give the candidate access to the same information we’re working from, and during the interview they are free to search the internet or ask for more data. We often supply the candidate with our customer research, usage data, designs and mock-ups — most everything we have.
+
+
+### Make it interactive
+
+We make the interviews interactive. We’re not asking you questions. We have a problem to solve together, so let’s work the way we’ll work when you’re here and we’re working on this particular problem.
+
+
+### Follow a single scenario
+
+We follow a single scenario/problem throughout the day and take the candidate on a similar journey that PMs go through starting with the customer or business problem, understanding the customer’s job-to-be-done, designing the solution, bringing the solution into customer hands and ultimately getting them to use and love it. Each interview focuses on a different phase of the process.
+
+
+### Pair interviewers
+
+We pair interviewers up. Rather than having one-to-one interviews, we bring two people from the team into each interview. Our original motive was to train more interviewers, but having two people in the room had other benefits. Not only was the conversation more dynamic with multiple collaborators, it also gave us an opportunity to hear multiple perspectives on the same conversation. Not everyone hears conversations the same way, so it gave us a way to place a check on unconscious bias in the same conversation.
+
+
+### Hold feedback until the end
+
+We hold feedback between interviewers till the end of the day. We wanted each interviewer to judge the candidate based on the merits of their conversation alone — and not the opinion of interviewers who came before them. We tell interviewers not to signal to others whether they were leaning toward recommending we hire someone or not. They hand off the candidate to the next interviewer set and give a summary of what we’d learned in the previous session. At the end of the day everyone simultaneously makes their recommendation and explains a bit about what they saw/heard that led to that conclusion.
+
+
+### Give feedback on the process too
+
+At the end of each interview loop, we not only discuss what we learned in our time with the candidate, but what worked or didn’t work in the process. We feed that back into the process so it gets better.
+
+
+
 ## Resources
 
 For candidates:
@@ -99,8 +159,8 @@ For interviewers:
 
 * [How to interview candidates effectively](https://www.betterteam.com/how-to-interview-candidates)
 * [The Right Way To Interview A Job Candidate](https://www.forbes.com/sites/lizryan/2017/04/28/the-right-way-to-interview-a-job-candidate/#74f581d1b70a)
+* [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
 
 For everyone:
 
 * [Laszlo Bock](https://en.wikipedia.org/wiki/Laszlo_Bock)
-
